@@ -1,6 +1,3 @@
-### This is an react exercise inspired by reactjs tutorial.
-
-I have deployed this on netlify [Game OOXX](https://gameooxx.netlify.app/)
 
 
 # Getting Started with Create React App
