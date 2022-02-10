@@ -1,5 +1,4 @@
-
-[![Netlify Status](https://game-ooxx.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1a23977d-f3d6-47a1-a428-6e5b3c9f1285/deploy-status)](https://game-ooxx.netlify.app/)
 Click here to play!
 
 
